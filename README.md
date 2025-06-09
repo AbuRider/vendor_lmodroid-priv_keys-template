@@ -1,13 +1,13 @@
-# evolution-priv_keys-template
+# lmodroid-priv_keys-template
 
 # Usage
 
 ```bash
-croot && git clone https://github.com/Evolution-X/vendor_evolution-priv_keys-template vendor/evolution-priv/keys
+git clone https://github.com/AbuRider/vendor_lmodroid-priv_keys-template vendor/lmodroid-priv/keys
 ```
 
 ```bash
-cd vendor/evolution-priv/keys
+cd vendor/lmodroid-priv/keys
 ```
 
 ```
